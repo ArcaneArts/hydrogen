@@ -1,0 +1,3 @@
+library hydrogen;
+
+class Hydrogen {}
